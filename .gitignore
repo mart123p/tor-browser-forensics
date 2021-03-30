@@ -1,0 +1,5 @@
+.vscode/
+data/
+data_exported.csv
+.DS_Store
+env/
